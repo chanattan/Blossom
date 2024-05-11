@@ -1,0 +1,1 @@
+/home/csok/Documents/M1_SIF/project/code/joins/structures/target/wasm32-wasi/release/multiple_instance.wasm: /home/csok/Documents/M1_SIF/project/code/joins/structures/joins/src/lib.rs /home/csok/Documents/M1_SIF/project/code/joins/structures/multiple_instance/src/main.rs

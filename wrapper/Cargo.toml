@@ -1,0 +1,15 @@
+[profile.dev]
+opt-level = 2  # Set optimization level to 2 for faster build times
+panic = "abort"
+
+[profile.release]
+opt-level = "z"  # Set optimization level to "z" for maximum optimization
+panic = "abort"
+
+[workspace]
+members=[
+    "parameters",
+    "multiple_instance",
+    "native",
+    "one_instance"
+]

@@ -1,0 +1,9 @@
+[package]
+name = "joins"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.4"
+rand="0.8.5"
+getrandom = { version = "0.2.11", features = ["js"] }

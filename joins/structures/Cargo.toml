@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "joins",
+    "multiple_instance",
+    "one_instance",
+    "native"
+]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"

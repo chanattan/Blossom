@@ -1,0 +1,8 @@
+[workspace]
+members = ["structures"]
+
+[profile.dev]
+opt-level = 2  # Set optimization level to 2 for faster build times
+
+[profile.release]
+opt-level = "z"  # Set optimization level to "z" for maximum optimization
