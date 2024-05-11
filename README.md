@@ -1,8 +1,8 @@
 # Blossom: a simple Wasm orchestrator
 ## What is it
-Blossom, standing for we**B** assemb**L**y **O**rchestrator **S**erverle**S**s c**OM**puting, is a simple tool used to orchestrate native and Wasm operators from data-management and program scheduling viewpoints.
+Blossom, standing for we**B** assemb**L**y **O**rchestrator **S**erverle**S**s c**OM**puting, is a simple tool used to manage native and Wasm operators from data-management and program scheduling viewpoints.
 
-It aims to be a local distributed-simulated platform to assess the performance and energy-consumption
+It initially aims to be a local distributed-simulated platform to assess the performance and energy-consumption
 of these operators deployment in serverless environments.
 
 This tool was born with the launch of a research project conducted at IRISA France with Chanattan Sok, Pr. Laurent d'Orazio
